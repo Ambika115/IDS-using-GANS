@@ -1,5 +1,0 @@
-scapy
-streamlit
-pandas
-matplotlib
-pandas
